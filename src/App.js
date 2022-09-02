@@ -17,7 +17,9 @@ import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 
-const api = "http://localhost:5000/users";
+//const api = "http://localhost:5000/users";
+
+const api = "https://cg-json-server-react.herokuapp.com/users"
 
 //valeur par défaut des champs du formulaire
 const initialState = {
