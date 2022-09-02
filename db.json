@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Cedric2",
+      "adress": "Marseille",
+      "email": "admin@admin.fr",
+      "contact": "41613123132",
+      "id": 1
+    },
+    {
+      "name": "dragon ball2",
+      "email": "admin@admin.fr",
+      "contact": "122551115421",
+      "adress": "om",
+      "id": 3
+    }
+  ]
+}

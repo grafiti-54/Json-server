@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ npm i axios react-toastify bootstrap react-bootstrap json-server
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
